@@ -1,1 +1,3 @@
 [![IKKI2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IKKI2000&show_icons=true&title_color=00c2d1&text_color=8d634a&icon_color=ff9800&bg_color=fffcf4)](https://github.com/IKKI2000)
+
+[![IKKI/KendoUI-Admin-Site](https://gitee.com/IKKI2000/KendoUI-Admin-Site/widgets/widget_card.svg?colors=00c3d1,424242,535353,383838,d6d6d6,ff9900)](https://gitee.com/IKKI2000/KendoUI-Admin-Site)
