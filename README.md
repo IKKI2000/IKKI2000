@@ -47,7 +47,11 @@
 ![Webpack](https://img.shields.io/badge/Webpack-%20-fff.svg?logo=Webpack&logoColor=8dd6f9&style=social)
 ![Babel](https://img.shields.io/badge/Babel-%20-fff.svg?logo=Babel&logoColor=f9dc3e&style=social)
 ![ESLint](https://img.shields.io/badge/ESLint-%20-fff.svg?logo=ESLint&logoColor=4b32c3&style=social)
+![Prettier](https://img.shields.io/badge/Prettier-%20-fff.svg?logo=Prettier&logoColor=f7b93e&style=social)
 ![PostCSS](https://img.shields.io/badge/PostCSS-%20-fff.svg?logo=PostCSS&logoColor=dd3a0a&style=social)
+![Jest](https://img.shields.io/badge/Jest-%20-fff.svg?logo=Jest&logoColor=c21325&style=social)
+![Cypress](https://img.shields.io/badge/Cypress-%20-fff.svg?logo=Cypress&logoColor=17202c&style=social)
+![Nuxt](https://img.shields.io/badge/Nuxt-%20-fff.svg?logo=Nuxt.js&logoColor=00c58e&style=social)
 
 ### -= Mobile Development =-
 
@@ -60,7 +64,7 @@
 
 ### -= Tools =-
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%20-fff.svg?logo=Visual-Studio-Code&logoColor=007acc&style=social)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-fff.svg?logo=Visual-Studio-Code&logoColor=007acc&style=social)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%20-fff.svg?logo=WebStorm&logoColor=000000&style=social)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%20-fff.svg?logo=Adobe-XD&logoColor=ff26be&style=social)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%20-fff.svg?logo=Adobe-Photoshop&logoColor=26c9ff&style=social)
