@@ -30,7 +30,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%20-fff.svg?logo=jQuery&logoColor=0769ad&style=social)
 ![Angular](https://img.shields.io/badge/Angular-%20-fff.svg?logo=Angular&logoColor=dd0031&style=social)
 ![React](https://img.shields.io/badge/React-%20-fff.svg?logo=React&logoColor=61dafb&style=social)
-![Vue](https://img.shields.io/badge/Vue-%20-fff.svg?logo=Vue-dot-js&logoColor=4fc08d&style=social)
+![Vue](https://img.shields.io/badge/Vue-%20-fff.svg?logo=Vuedotjs&logoColor=4fc08d&style=social)
 ![Electron](https://img.shields.io/badge/Electron-%20-fff.svg?logo=Electron&logoColor=47848f&style=social)
 
 ### -= UI =-
@@ -42,7 +42,7 @@
 
 ### -= Engineering =-
 
-![NodeJS](https://img.shields.io/badge/NodeJS-%20-fff.svg?logo=Node-dot-js&logoColor=339933&style=social)
+![NodeJS](https://img.shields.io/badge/NodeJS-%20-fff.svg?logo=Nodedotjs&logoColor=339933&style=social)
 ![NPM](https://img.shields.io/badge/NPM-%20-fff.svg?logo=NPM&logoColor=cb3837&style=social)
 ![Git](https://img.shields.io/badge/Git-%20-fff.svg?logo=Git&logoColor=f05032&style=social)
 ![Vite](https://img.shields.io/badge/Vite-%20-fff.svg?logo=Vite&logoColor=646cff&style=social)
@@ -53,7 +53,7 @@
 ![PostCSS](https://img.shields.io/badge/PostCSS-%20-fff.svg?logo=PostCSS&logoColor=dd3a0a&style=social)
 ![Jest](https://img.shields.io/badge/Jest-%20-fff.svg?logo=Jest&logoColor=c21325&style=social)
 ![Cypress](https://img.shields.io/badge/Cypress-%20-fff.svg?logo=Cypress&logoColor=17202c&style=social)
-![Nuxt](https://img.shields.io/badge/Nuxt-%20-fff.svg?logo=Nuxt-dot-js&logoColor=00c58e&style=social)
+![Nuxt](https://img.shields.io/badge/Nuxt-%20-fff.svg?logo=Nuxtdotjs&logoColor=00c58e&style=social)
 
 ### -= Mobile Development =-
 
